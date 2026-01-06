@@ -12,7 +12,7 @@ from telegram.ext import (
 
 # ---------------- CONFIG ---------------- #
 TOKEN = os.getenv("BOT_TOKEN")
-CHANNEL_USERNAME = "@YourChannelUsername"  # ⚠️ change this
+CHANNEL_USERNAME = "@riyad_Elsalihin"  # ⚠️ change this
 
 DOWNLOAD_DIR = "downloads"
 OUTPUT_DIR = "pdfs"
@@ -155,3 +155,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
